@@ -5,7 +5,8 @@
 
 <div align="block"> 
   <h3> 👨🏻‍💻 About Me </h3>
-
+  
+  - 🕦 &nbsp; Part time Developer who ♥️ to playing with code.
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.  
