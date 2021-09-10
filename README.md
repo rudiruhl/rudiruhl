@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Marco 👋 </h1>
+<h3 align="center">🚀 Fullstack Developer | Open Source ♥ | UI Designer 🚀</h3>
 
-<!--
-**rudiruhl/rudiruhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm a Developer who turns coffee into code with a taste of design and photography.</h3>
 
-Here are some ideas to get you started:
+<div align="block"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.  
+</div>
+
+
