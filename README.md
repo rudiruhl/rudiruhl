@@ -55,17 +55,16 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   2 hrs 48 mins       ████████████████████████░   99.45% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cmd_yt_ddl               2 hrs 49 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 49 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,7 +80,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
 
 
