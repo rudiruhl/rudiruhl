@@ -8,7 +8,7 @@
   
   - 🕦 &nbsp; Part time Developer who ♥️ to playing with code.
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 💼 &nbsp; I’m currently working on data-analytics and data-visiualsation.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.  
 </div>
 
