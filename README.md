@@ -15,6 +15,10 @@
 <div align="block"> 
   <h3>🛠 Tools</h3>
  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/-django-%23092E20?style=for-the-badge&logo=django&logoColor=white">
+ <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
+ <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+ <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
@@ -24,8 +28,11 @@
  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
  <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
  <img src="https://img.shields.io/badge/-Docker-384d54?style=for-the-badge&logo=docker&logoColor=white">
- <img src="https://img.shields.io/badge/-Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Mongodb-3F3E42?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img src="https://img.shields.io/badge/-Mongodb-3F3E42?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+ <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+ <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+ <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 </div>
 
 <!--START_SECTION:waka-->
